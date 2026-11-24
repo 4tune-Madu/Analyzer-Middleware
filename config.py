@@ -1,0 +1,5 @@
+HOST = "0.0.0.0"
+PORT = 7118
+
+START_OF_MESSAGE = b"\x0b"
+END_OF_MESSAGE = b"\x1c\x0d"
